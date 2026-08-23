@@ -1,16 +1,19 @@
-## Hi there 👋
+# Quinvarium
 
-<!--
-**Quinvarium/Quinvarium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official public profile and status repository for Quinvarium (QNV).
 
-Here are some ideas to get you started:
+Quinvarium is an independent native Layer 1 Proof-of-Work network in development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current public status
+
+- Public testnet — not started.
+- Mainnet — not started.
+- Public network, software, and source code — not released.
+
+## Official links
+
+- Website: [quinvarium.org](https://quinvarium.org)
+- X: [@Quinvarium](https://x.com/Quinvarium)
+- Telegram: [t.me/quinvarium](https://t.me/quinvarium)
+- YouTube: [@Quinvarium](https://www.youtube.com/@Quinvarium)
+- Instagram: [@quinvarium](https://www.instagram.com/quinvarium/)
